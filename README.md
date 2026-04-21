@@ -111,6 +111,18 @@ _Adicione seu nome abaixo seguindo o formato: `- Seu Nome — Seu Curso`_
 
 ---
 
+## 💖 Apoie este projeto
+
+Se este projeto te ajudou, considere apoiar ❤️
+
+Você pode contribuir com um apoio único ou mensal e ajudar a manter este projeto ativo.
+
+👉 https://github.com/sponsors/MMVonnSeek
+
+Seu apoio ajuda diretamente no desenvolvimento de novas ferramentas e conteúdos 🙌
+
+---
+
 ## Contribuição
 
 Se você gostou do projeto, não esqueça de:
