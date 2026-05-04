@@ -1,8 +1,9 @@
 # Desafio Colaborativo: Git & GitHub
 
-![Material_do_Professor_Max](https://img.shields.io/badge/Material_do_Professor_Max-Oficial-4c1?logo=google-scholar&logoColor=white)
-![GitHub](https://img.shields.io/badge/Desafio-Colaborativo-blue)
-![Git](https://img.shields.io/badge/Aprenda-Git-orange)
+![Material do Professor Max](https://img.shields.io/badge/Material_do_Professor_Max-Oficial-4c1?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Desafio Colaborativo](https://img.shields.io/badge/Desafio-Colaborativo-blue?style=for-the-badge&logo=github)
+![Aprenda Git](https://img.shields.io/badge/Aprenda-Git-orange?style=for-the-badge&logo=git)
+
 
 > **Objetivo:** Aprender na prática como contribuir em projetos open-source usando Git e GitHub!
 
@@ -108,18 +109,6 @@ _Adicione seu nome abaixo seguindo o formato: `- Seu Nome — Seu Curso`_
 
 > _"A única forma de dominar a linha de comando é praticando. Use o Git Bash para todos os seus projetos, mesmo os mais simples. A repetição transformará os comandos em reflexos."_
 
-
----
-
-## 💖 Apoie este projeto
-
-Se este projeto te ajudou, considere apoiar ❤️
-
-Você pode contribuir com um apoio único ou mensal e ajudar a manter este projeto ativo.
-
-👉 https://github.com/sponsors/MMVonnSeek
-
-Seu apoio ajuda diretamente no desenvolvimento de novas ferramentas e conteúdos 🙌
 
 ---
 
