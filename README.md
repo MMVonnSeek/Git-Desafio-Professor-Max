@@ -1,8 +1,6 @@
 # Desafio Colaborativo: Git & GitHub
 
-![Material do Professor Max](https://img.shields.io/badge/Material_do_Professor_Max-Oficial-4c1?style=for-the-badge&logo=google-scholar&logoColor=white)
-![Desafio Colaborativo](https://img.shields.io/badge/Desafio-Colaborativo-blue?style=for-the-badge&logo=github)
-![Aprenda Git](https://img.shields.io/badge/Aprenda-Git-orange?style=for-the-badge&logo=git)
+[![Material](https://img.shields.io/badge/Material_do_Professor_Max-Oficial-4c1?style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/MMVonnSeek/Git-Desafio-Professor-Max) [![Desafio](https://img.shields.io/badge/Desafio-Colaborativo-blue?style=for-the-badge&logo=github)](https://github.com/MMVonnSeek/Git-Desafio-Professor-Max) [![Git](https://img.shields.io/badge/Aprenda-Git-orange?style=for-the-badge&logo=git)](https://git-scm.com)
 
 
 > **Objetivo:** Aprender na prática como contribuir em projetos open-source usando Git e GitHub!
