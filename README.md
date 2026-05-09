@@ -139,9 +139,8 @@ Se tiver alguma dúvida durante o processo, me chame no WhatsApp ou abra uma iss
 [![Forks](https://img.shields.io/github/forks/MMVonnSeek/Git-Desafio-Professor-Max?style=social)](https://github.com/MMVonnSeek/Git-Desafio-Professor-Max/network/members)
 [![Follow](https://img.shields.io/github/followers/MMVonnSeek?style=social)](https://github.com/MMVonnSeek)
 
-<a href="https://wa.me/5561986194426?text=Olá%20tudo%20bem%20Max%3F%20Eu%20vim%20pelo%20seu%20repositorio%20do%20github.%20Podemos%20conversar%20sobre%3F" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Fale%20Comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Max_Muller-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-muller-685705248/)
 
 <br>
 
